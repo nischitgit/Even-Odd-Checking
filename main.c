@@ -4,9 +4,12 @@
 
 int main()
 {
+    // Variable
     int num;
+    // Instruction
     printf("Enter Number: ");
     scanf("%d", &num);
+    // Output
     if (num == 0)
     {
         printf("Zero");
